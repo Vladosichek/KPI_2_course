@@ -1,0 +1,5 @@
+﻿  AP_Laba_1_Mod.cpp
+  Source.cpp
+E:\Install\GitHub\KPI_2course\PA\Laba_1\AP_Laba_1_Mod\AP_Laba_1_Mod\Source.cpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  AP_Laba_1_Mod.vcxproj -> E:\Install\GitHub\KPI_2course\PA\Laba_1\AP_Laba_1_Mod\x64\Debug\AP_Laba_1_Mod.exe
